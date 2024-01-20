@@ -13,7 +13,7 @@
 - db-android-register.php
 - db-android-user_transaction.php  
 
-[Transaction-Site-Database-Project_Web](https://github.com/chungJS/Transaction-Site-Database-Project_Web)
+[Transaction-Site-Database-Project_Web](https://github.com/chungJS/Transaction-Site-Database-Project_Web) 이랑 연결
 
 
 ### 작동 흐름
