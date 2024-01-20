@@ -6,7 +6,7 @@
 # Log in & create account 기능
 |로그인|회원가입|거래내역|
 |:-:|:-:|:-:|
-|![로그인](./img/login.png)|![회원가입](./img/register.png)|[거래내역](./img/transaction-view.png)|
+|![로그인](./img/login.png)|![회원가입](./img/register.png)|![거래내역](./img/transaction-view.png)|
 
 ### 상호작용 php
 - db-android-login.php
